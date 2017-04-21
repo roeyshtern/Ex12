@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ex12</string>
+    <string name="END_OF_THE_GAME">So what?</string>
+    <string name="yourName_preferences">Your name</string>
+    <string name="PreventOrientationChange_prefernces">Disable orientation change</string>
+    <string name="TheNumberStart_prefernces">The number to begin the app with</string>
+    <string name="summaryYourName_preferneces">Your name: %s</string>
+    <string name="summaryStartNumber_preferneces">The start number: %s</string>
+    <string name="host">Hosting activity must imlements the interface ResultListerner</string>
+    <string name="exit_dialog">Are you sure you want to exit?</string>
+    <string name="yes_dialog">Yes</string>
+    <string name="no_dialog">No</string>
+    <string name="resetButton">Reset</string>
+
+</resources>
